@@ -1,0 +1,16 @@
+to install virtual environment
+python -m venv env
+
+install requirements
+pip install -r requirements.txt
+
+to activate
+env/Scripts/activate
+1. cd env
+2. cd Scripts
+3. .\activate
+
+cd .. ------> back aauxa
+code. 
+
+py manage.py runserver
