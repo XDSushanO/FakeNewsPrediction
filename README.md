@@ -21,7 +21,7 @@ The following files are included:
 ## How to Use This Script ?
 To clone our project,
 ```bash
-  git clone git@github.com:iamrosan/Fake-News-Detection-BCT-Mini-Project-.git
+  git clone git@github.com:XDSushanO/FakeNewsPrediction.git
 ```
 
 Foremost thing is you need to install the requirements so you could run everything. This repository contains a requirements.txt
@@ -45,23 +45,3 @@ And, run server
 Go to local host server on the browser of your choice
 ```bash
  127.0.0.1:8000
-```
-## How it works?
-We have got two buttons to allow user to test whether the news article or the content of url of the online news is True or Fake.
-
-For testing article of the news, click on **For Article**.
- 
- ![article](https://user-images.githubusercontent.com/43814550/158328311-cc1a519a-48bc-4cbb-8355-84ec9a3eafba.png)
-
-
-For testing contents of url of online news portal, click on **For Url** and insert the link of the news article.
- 
- ![url](https://user-images.githubusercontent.com/43814550/158328442-485c615b-21e5-4e04-ad0f-e88d1f01f3cd.png)
-
-Once you have article or url of the news portal, hit predict button or press Enter.
-
-**UI for Real News**
-![frontend](https://user-images.githubusercontent.com/43814550/158327060-401d5a23-6900-4bf9-ad41-9072cb85f478.png)
-
-**UI for Fake News**
-![frontend2](https://user-images.githubusercontent.com/43814550/158327141-c74fb3c9-45d5-4782-a464-315923ab6fad.png)
